@@ -6,5 +6,4 @@ class Book
     @title
   end
 
-
 end
