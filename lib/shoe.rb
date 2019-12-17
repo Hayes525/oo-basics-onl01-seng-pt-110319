@@ -9,7 +9,7 @@ class Shoe
     @brand
   end
 
-  def turn_page
+  def turn._page
     puts "Flipping the page...wow, you read fast!"
-  end
+  end.
 end
